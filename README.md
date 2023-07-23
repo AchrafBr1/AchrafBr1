@@ -14,16 +14,10 @@ Where to find me:
 <a href="https://www.facebook.com/electab" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-  
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AchrafBr1&layout=compact&theme=tokyonight" />
-</a>
-</p>
-  
-
-  <summary>📃 Others</summary>
+<div align="center">
+    
+[![Achraf GitHub stat](https://github-readme-stats.vercel.app/api?username=AchrafBr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  </div>
   
 ## ⚙️ Techs
 
@@ -64,7 +58,7 @@ Where to find me:
 </a> 
 
 ## 👀 Profile viewers
-![](https://komarev.com/ghpvc/?username=AchrafBr1)
+![](https://komarev.com/ghpvc/?username=AchrafBr1&style=for-the-badge&color=red)
 
 <!--
 - 💻 [ Blog personal - projects - tools](https://yeou.dev/)
