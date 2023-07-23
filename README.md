@@ -63,6 +63,9 @@ Where to find me:
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a> 
 
+## Spam
+<img align="center" src="https://profile-counter.glitch.me/yeoudev/count.svg" />
+
 <!--
 - 💻 [ Blog personal - projects - tools](https://yeou.dev/)
 </details>
