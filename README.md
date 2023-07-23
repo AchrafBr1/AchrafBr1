@@ -64,7 +64,7 @@ Where to find me:
 </a> 
 
 ## Spam
-<img align="center" src="https://profile-counter.glitch.me/yeoudev/count.svg" />
+![](https://komarev.com/ghpvc/?username=AchrafBr1)
 
 <!--
 - 💻 [ Blog personal - projects - tools](https://yeou.dev/)
