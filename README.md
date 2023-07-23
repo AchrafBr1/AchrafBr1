@@ -1,7 +1,7 @@
 <h1 align='center'>
     ¡Hello there 🖖🏼 I'm Achraf 👨🏻‍💻 !
     <p align='center'>
-        I love the development of complex, head-scratching projects. One of the most important projects deployed is an autonomous system for stable and efficient power supply ☀️🔌🔋⚡💡 with services and platforms for the installer and user .
+        I love the development of complex, head-scratching projects. One of the most important projects I have deployed is an autonomous system for stable and efficient power supply ☀️🔌🔋⚡💡 with services and platforms for the installer and user .
 </p>
 </h1>
 
