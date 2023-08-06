@@ -22,10 +22,7 @@ Where to find me:
 ## ⚙️ Techs
 
 
-<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</a>
+
 <a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
 </a> 
 <a><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
