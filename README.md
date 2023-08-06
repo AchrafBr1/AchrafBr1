@@ -25,7 +25,7 @@ Where to find me:
 
 <a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/javascript-yellow?js=javascript&style=for-the-badge&logo=javascript&logoColor=white"/>
 </a> 
 <a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </a> 
