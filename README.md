@@ -15,7 +15,7 @@ Where to find me:
 
 <div align="center">
     
-[![Achraf GitHub stat](https://github-readme-stats.vercel.app/api?username=AchrafBr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Achraf GitHub stat](https://github-readme-stats.vercel.app/api?username=AchrafBr1&show_icons=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://github.com/AchrafBr1))
   </div>
   
 ## ⚙️ Techs
