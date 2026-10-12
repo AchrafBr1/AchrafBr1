@@ -15,7 +15,7 @@ Most software assumes the hardware just works; most hardware stops once the boar
 - Infrastructure: Docker, Kubernetes, CI/CD (GitHub Actions / GitLab), Linux, Terraform, Cloud Infrastructure.
 - Hardware & Edge: PCB layout, microcontrollers, low-level firmware, laboratory instrumentation.
 - Protocols & Transport: MQTT, TCP/IP, Modbus, REST, BLE, Zigbee, Z-Wave.
-- Languages: Python, Bash, C / C++, JavaScript / TypeScript.
+
 
 
 <p align='center'>
