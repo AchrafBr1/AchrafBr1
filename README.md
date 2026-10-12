@@ -1,9 +1,22 @@
-<h1 align='center'>
-    ¡Hello there, I'm Achraf 👨🏻‍💻 !
-    <p align='center'>
-        I love the development of complex, head-scratching projects. One of the most important projects I have deployed is an autonomous system for stable and efficient power supply ☀️🔌🔋⚡💡 with services and platforms
-</p>
-</h1>
+# Achraf
+
+I build at the boundary where physical signals meet distributed systems. 
+
+Most software assumes the hardware just works; most hardware stops once the board powers on. My work lives in between: taking systems from raw voltage and low-level firmware all the way to containerized deployments, automated pipelines, and cloud telemetry.
+
+### Core Focus
+
+- DevOps & Infrastructure: CI/CD automation, container orchestration, Linux systems, and Infrastructure as Code. Built for deterministic builds, observability, and zero-surprise deployments.
+- Advanced Electronics & Embedded: Board design, low-level debugging, microcontrollers, and firmware architecture. Comfortable with logic analyzers, oscilloscopes, and custom protocol implementations.
+- Connectivity & Edge Systems: Linking field devices reliably to centralized networks across RF, BLE, Zigbee, MQTT, and secure transport layers.
+
+### Technical Arsenal
+
+- Infrastructure: Docker, Kubernetes, CI/CD (GitHub Actions / GitLab), Linux, Terraform, Cloud Infrastructure.
+- Hardware & Edge: PCB layout, microcontrollers, low-level firmware, laboratory instrumentation.
+- Protocols & Transport: MQTT, TCP/IP, Modbus, REST, BLE, Zigbee, Z-Wave.
+- Languages: Python, Bash, C / C++, JavaScript / TypeScript.
+
 
 <p align='center'>
 Where to find me:
