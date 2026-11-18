@@ -1,8 +1,53 @@
-# Achraf
+# Achraf Bouchtarouif El Khiat
+
+**Senior Product Manager** with more than seven years running complete products end to end: hardware, firmware and software. Author of the **Horizontal Product Branch (HPB)** methodology.
 
 I build at the boundary where physical signals meet distributed systems. 
 
 Most software assumes the hardware just works; most hardware stops once the board powers on. My work lives in between: taking systems from raw voltage and low-level firmware all the way to containerized deployments, automated pipelines, and cloud telemetry.
+
+## Featured: Horizontal Product Branch (HPB)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355435.svg)](https://doi.org/10.5281/zenodo.24355435)
+[![Paper: CC BY 4.0](https://img.shields.io/badge/paper-CC%20BY%204.0-lightgrey.svg)](https://github.com/AchrafBr1/hpb/blob/main/LICENSE-CC-BY-4.0.md)
+[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](https://github.com/AchrafBr1/hpb/blob/main/LICENSE)
+
+After years managing a large, fast-rotating portfolio of hardware, firmware and software products, I kept hitting the same gap: no method told me **from which version a piece of work started, what else was running on the same product, and which release actually closed it**. HPB brings branch-and-merge to the product itself: every improvement, issue, task or lab evolution is a branch that forks from a released version and closes into a named release, or is discarded with a written reason.
+
+<p align="center">
+  <a href="https://github.com/AchrafBr1/hpb">
+    <img src="https://raw.githubusercontent.com/AchrafBr1/hpb/main/docs/assets/example-c.svg" alt="HPB diagram: a hardware revision that creates a new product reference" width="820" />
+  </a>
+</p>
+
+- **Paper:** [Read the PDF](https://github.com/AchrafBr1/hpb/blob/main/paper/HPB-v1.0.pdf) · [Zenodo record](https://doi.org/10.5281/zenodo.24355435)
+- **The HPB Guide 1.0:** [methodology/HPB-Guide.md](https://github.com/AchrafBr1/hpb/blob/main/methodology/HPB-Guide.md)
+- **HPB Markup:** draw HPB diagrams from text, like Mermaid, in HTML, React, Next.js, Vite, Markdown or the CLI: [github.com/AchrafBr1/hpb](https://github.com/AchrafBr1/hpb)
+
+### How to cite
+
+> Bouchtarouif El Khiat, A. (2026). *Horizontal Product Branch (HPB): A Practitioner's Methodology for Planning and Tracing Product Evolution across Hardware, Firmware and Software* (Preprint v1.0). Zenodo. https://doi.org/10.5281/zenodo.24355435
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{bouchtarouif2026hpb,
+  author    = {Bouchtarouif El Khiat, Achraf},
+  title     = {Horizontal Product Branch ({HPB}): A Practitioner's Methodology for
+               Planning and Tracing Product Evolution across Hardware, Firmware
+               and Software},
+  year      = {2026},
+  month     = nov,
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24355435},
+  url       = {https://doi.org/10.5281/zenodo.24355435},
+  note      = {Preprint v1.0}
+}
+```
+
+</details>
+
 
 ### Core Focus
 
@@ -28,7 +73,7 @@ Where to find me:
 
 <div align="center">
     
-[![Achraf GitHub stat](https://github-readme-stats.vercel.app/api?username=AchrafBr1&show_icons=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://github.com/AchrafBr1))
+[![Achraf GitHub stat](https://github-readme-stats.vercel.app/api?username=AchrafBr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AchrafBr1)
   </div>
   
 ## Techs
