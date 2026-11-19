@@ -9,20 +9,20 @@ Most software assumes the hardware just works; most hardware stops once the boar
 ## Featured: Horizontal Product Branch (HPB)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355435.svg)](https://doi.org/10.5281/zenodo.24355435)
-[![Paper: CC BY 4.0](https://img.shields.io/badge/paper-CC%20BY%204.0-lightgrey.svg)](https://github.com/AchrafBr1/hpb/blob/main/LICENSE-CC-BY-4.0.md)
-[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](https://github.com/AchrafBr1/hpb/blob/main/LICENSE)
+[![Paper: CC BY 4.0](https://img.shields.io/badge/paper-CC%20BY%204.0-lightgrey.svg)](https://github.com/AchrafBr1/horizontal-product-branch/blob/main/LICENSE-CC-BY-4.0.md)
+[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](https://github.com/AchrafBr1/horizontal-product-branch/blob/main/LICENSE)
 
 After years managing a large, fast-rotating portfolio of hardware, firmware and software products, I kept hitting the same gap: no method told me **from which version a piece of work started, what else was running on the same product, and which release actually closed it**. HPB brings branch-and-merge to the product itself: every improvement, issue, task or lab evolution is a branch that forks from a released version and closes into a named release, or is discarded with a written reason.
 
 <p align="center">
-  <a href="https://github.com/AchrafBr1/hpb">
-    <img src="https://raw.githubusercontent.com/AchrafBr1/hpb/main/docs/assets/example-c.svg" alt="HPB diagram: a hardware revision that creates a new product reference" width="820" />
+  <a href="https://github.com/AchrafBr1/horizontal-product-branch">
+    <img src="https://raw.githubusercontent.com/AchrafBr1/horizontal-product-branch/main/docs/assets/example-c.svg" alt="HPB diagram: a hardware revision that creates a new product reference" width="820" />
   </a>
 </p>
 
-- **Paper:** [Read the PDF](https://github.com/AchrafBr1/hpb/blob/main/paper/HPB-v1.0.pdf) · [Zenodo record](https://doi.org/10.5281/zenodo.24355435)
-- **The HPB Guide 1.0:** [methodology/HPB-Guide.md](https://github.com/AchrafBr1/hpb/blob/main/methodology/HPB-Guide.md)
-- **HPB Markup:** draw HPB diagrams from text, like Mermaid, in HTML, React, Next.js, Vite, Markdown or the CLI: [github.com/AchrafBr1/hpb](https://github.com/AchrafBr1/hpb)
+- **Paper:** [Read the PDF](https://github.com/AchrafBr1/horizontal-product-branch/blob/main/paper/HPB-v1.0.pdf) · [Zenodo record](https://doi.org/10.5281/zenodo.24355435)
+- **The HPB Guide 1.0:** [methodology/HPB-Guide.md](https://github.com/AchrafBr1/horizontal-product-branch/blob/main/methodology/HPB-Guide.md)
+- **HPB Markup:** draw HPB diagrams from text, like Mermaid, in HTML, React, Next.js, Vite, Markdown or the CLI: [github.com/AchrafBr1/horizontal-product-branch](https://github.com/AchrafBr1/horizontal-product-branch)
 
 ### How to cite
 
